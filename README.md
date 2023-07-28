@@ -4,3 +4,9 @@
 ### ALF was developed within the Brooks Research Group at the University of Michigan and is currently overseen by [Ryan Hayes at the University of California, Irvine](https://github.com/RyanLeeHayes).
 ### To download the ALF GitHub repository (housed on Ryan's site) execute the command: `git clone git@github.com:RyanLeeHayes/ALF.git`.
 ### ALF is an integral component of running MS $\lambda$ D in [CHARMM/pyCHARMM](https://charmm.chemistry.harvard.edu/main.php), software availble free of charge for academic and government laboratories.
+
+```sh
+
+retreiveSubmodule.sh
+
+```
